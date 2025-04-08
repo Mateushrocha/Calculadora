@@ -24,6 +24,6 @@ A calculadora foi criada com o objetivo de praticar os conceitos fundamentais de
 - JavaScript (puro)
 
 ## 📘 **Curso**
-Projeto desenvolvido durante o curso:
-Curso Completo de Desenvolvimento Web - Udemy
-Instrutor: Jamilton Damasceno e Jorde Santana
+Projeto desenvolvido durante o curso: </br>
+Curso Completo de Desenvolvimento Web - Udemy </br>
+Instrutor: Jamilton Damasceno e Jorde Santana </br>
